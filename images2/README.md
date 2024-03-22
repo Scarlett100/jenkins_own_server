@@ -462,7 +462,7 @@ ssh -o "StrictHostKeyChecking=no" ubuntu@54.217.159.235 <<EOF
 
 ![alt text](<Screenshot 2024-03-22 at 12.09.19.png>)
 
-Once that was completed I went into my app > views > index.ejs and made some changes to the html text > as you can see below it changed on the ip:3000..
+Once that was completed I went into my app > views > index.ejs and made some changes to the html text > as you can see below it changed on the ip:3000....
 
 ![alt text](<Screenshot 2024-03-22 at 12.21.03.png>)
 
